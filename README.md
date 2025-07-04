@@ -1,4 +1,4 @@
-# 🛒 Blinkit Grocery Sales Dashboard – Excel BI Project
+# 🛒 Blinkit Grocery Sales Dashboard – Data Analytics Project
 
 ## 📌 Project Title  
 **Blinkit Grocery Sales & KPI Dashboard Using Excel**
@@ -13,7 +13,8 @@ Using advanced Excel features—**Pivot Tables**, **Slicers**, **Charts**, **Dat
 
 ---
 
-## Data Set used: https://github.com/AkshatGupta0105/BlinkIT-Sales-Data-Analysis-Project-using-Microsoft-Excel/blob/main/BlinkIT%20dataset.xlsx
+## Data Set used
+https://github.com/AkshatGupta0105/BlinkIT-Sales-Data-Analysis-Project-using-Microsoft-Excel/blob/main/BlinkIT%20dataset.xlsx
 
 
 ## 🎯 Business Requirements
@@ -89,7 +90,7 @@ The dashboard was designed to meet the following core business questions:
 ---
 
 ## 📊 Dashboard :
-
+https://github.com/AkshatGupta0105/BlinkIT-Sales-Data-Analysis-Project-using-Microsoft-Excel/blob/main/Dashboard.jpg
 
 ## 📚 What I Learned
 
