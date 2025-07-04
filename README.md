@@ -13,7 +13,7 @@ Using advanced Excel features—**Pivot Tables**, **Slicers**, **Charts**, **Dat
 
 ---
 
-## Data Set used: 
+## Data Set used: https://github.com/AkshatGupta0105/BlinkIT-Sales-Data-Analysis-Project-using-Microsoft-Excel/blob/main/BlinkIT%20dataset.xlsx
 
 
 ## 🎯 Business Requirements
